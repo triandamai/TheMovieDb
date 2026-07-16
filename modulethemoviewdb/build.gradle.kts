@@ -48,7 +48,6 @@ dependencies {
     implementation(libs.androidx.media3.ui)
     implementation(libs.androidx.media3.common)
     implementation(libs.youtube.player.core)
-    implementation(libs.youtube.player.compose)
 
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))

@@ -75,7 +75,6 @@ androidx-media3-ui = { group = "androidx.media3", name = "media3-ui", version.re
 androidx-media3-common = { group = "androidx.media3", name = "media3-common", version.ref = "media3" }
 coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
 youtube-player-core = { module = "com.pierfrancescosoffritti.androidyoutubeplayer:core", version.ref = "youtubePlayer" }
-youtube-player-compose = { module = "com.pierfrancescosoffritti.androidyoutubeplayer:compose", version.ref = "youtubePlayer" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
